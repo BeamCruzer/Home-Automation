@@ -14,9 +14,3 @@ My home automation project is based on IoT which can convert any simple home to 
 * The heart of the project is ESP8266 NODEMCU microcontroller which enables the board with WiFi connectivity.
 * The board sends data to server as a client and the user’s input from mobile/laptop is also transferred to the server and data is interpreted there. After that, data is updated in the board as per the coding.
 * The switching is done by relays which can switch AC loads (upto 10Amps).
-
-## Benefits of the project
-*	As you can see, the size of the board is so small that it can be easily fit in any ordinary switch board and convert it to a smart board.
-*	The motion sensor and automations can reduce the electricity consumption for the user which will reduce a lot amount of carbon emission.
-*	The motion sensor also increases the security of the home and make it theft proof.
-*	It will enable the user to comfortably control different appliances just by sitting at the couch.
