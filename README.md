@@ -70,17 +70,17 @@ The system also supports **offline control**, **motion-based automation**, **tim
 ---
 
 ## 🖼️ Hardware Setup
-**Internal Wiring**
+#### Internal Wiring
 ![Internal Hardware Setup](images/hardware_setup_internal.jpeg)
 
-**Final Enclosure**
+#### Final Enclosure
 ![Final Setup](images/hardware_setup_final.jpeg)
 
 ## 📱 Blynk App Interface
-**Android App UI**
+#### Android App UI
 ![Blynk App UI](images/blynk_app_ui.jpeg)
 
-**Blynk Webdashboard UI**
+#### Blynk Webdashboard UI
 ![Blynk Webdashboard UI](images/web_dashboard_ui.png)
 
 ## 🔌 Circuit Diagram
