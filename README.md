@@ -66,6 +66,7 @@ The system also supports **offline control**, **motion-based automation**, **tim
 
 ## 📱 Blynk App Interface
 ![Blynk App UI](images/blynk_app_ui.png)
+![Blynk Webdashboard UI](images/web_dashboard_ui.png)
 
 ## 🔌 Circuit Diagram
 ![Circuit Diagram](circuit/circuit_diagram.png)
