@@ -22,6 +22,14 @@ The system also supports **offline control**, **motion-based automation**, **tim
 
 ---
 
+### 🔄 Over-The-Air (OTA) Firmware Updates
+- Supports **OTA firmware updates** using **AsyncElegantOTA**
+- Allows uploading new firmware directly through the device **IP address** via a HTTP webpage using "device_local_ip/update"
+- Eliminates the need for physical USB connection during updates
+- Firmware can also be updated remotely using the **Blynk OTA page** in the webdashboard
+
+---
+
 ### 🚶 Motion-Based Automation
 - Integrated **HC-SR501 PIR motion sensor**
 - Automatically turns ON room lights or appliances when motion is detected
@@ -62,10 +70,17 @@ The system also supports **offline control**, **motion-based automation**, **tim
 ---
 
 ## 🖼️ Hardware Setup
-![Hardware Setup](images/hardware_setup.jpg)
+**Internal Wiring**
+![Internal Hardware Setup](images/hardware_setup_internal.jpeg)
+
+**Final Enclosure**
+![Final Setup](images/hardware_setup_final.jpeg)
 
 ## 📱 Blynk App Interface
-![Blynk App UI](images/blynk_app_ui.png)
+**Android App UI**
+![Blynk App UI](images/blynk_app_ui.jpeg)
+
+**Blynk Webdashboard UI**
 ![Blynk Webdashboard UI](images/web_dashboard_ui.png)
 
 ## 🔌 Circuit Diagram
@@ -121,6 +136,15 @@ The system also supports **offline control**, **motion-based automation**, **tim
 3. Add required widgets (Buttons, Timer, Notifications)
 4. Assign the correct **Virtual Pins** as defined in the firmware
 5. Save the dashboard and start controlling appliances in real time
+
+---
+
+### 4️⃣ Library Installation
+1. Navigate to the `library/` folder in this repository and download all the zip files
+2. Open **Arduino IDE**
+3. Go to **Sketch → Include Library → Add .ZIP Library**
+4. Select each zip libraries one by one and install it
+5. Restart Arduino IDE after installing all libraries
 
 ---
 
