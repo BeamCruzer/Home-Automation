@@ -178,10 +178,17 @@ The system also supports **offline control**, **motion-based automation**, **tim
 
 ---
 
-## 🤝 Contributing
+## 📜 License
 
-Contributions welcome!
-Open an issue or submit PR
+This project is licensed under the **MIT License** — feel free to use, modify, and distribute.
+
+---
+
+## 🙌 Author
+
+**Spandan Choudhury**  
+Embedded Systems | Robotics | IoT  
+GitHub: `@BeamCruzer`
 
 ---
 
